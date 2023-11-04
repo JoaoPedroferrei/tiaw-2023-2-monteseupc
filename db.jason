@@ -1,1 +1,28 @@
-
+{
+    "opcoesPc": [
+        {
+            "id": 1,
+            "modelo": "home HM586",
+            "processador": "AMD Ryzen 5 5600G",
+            "armazenamento": "SSD 480 GB",
+            "memoria": "8GB RAM",
+            "preco": 2139.80
+        },
+        {
+            "id": 2,
+            "modelo": "Easypc-66033",
+            "processador": "Intel Core i5 3.40 GHz",
+            "armazenamento": "SSD 240 GB",
+            "memoria": "8GB RAM",
+            "preco": 976.50
+        },
+        {
+            "id": 3,
+            "modelo": "HOME HM563",
+            "processador": " INTEL CORE I7-10700",
+            "armazenamento": " SSD 480 GB",
+            "memoria": "16GB RAM",
+            "preco": 2139.80
+        }
+    ]
+}
