@@ -1,28 +1,49 @@
 {
-    "opcoesPc" [
-        {
-            "id": 1,
-            "modelo": "home HM586",
-            "processador": "AMD Ryzen 5 5600G",
-            "armazenamento": "SSD 480 GB",
-            "memoria": "8GB RAM",
-            "preco": 2139.80
-        },
-        {
-            "id": 2,
-            "modelo": "Easypc-66033",
-            "processador": "Intel Core i5 3.40 GHz",
-            "armazenamento": "SSD 240 GB",
-            "memoria": "8GB RAM",
-            "preco": 976.50
-        },
-        {
-            "id": 3,
-            "modelo": "HOME HM563",
-            "processador": " INTEL CORE I7-10700",
-            "armazenamento": " SSD 480 GB",
-            "memoria": "16GB RAM",
-            "preco": 2139.80
-        }
-    ]
+    [
+  {
+    "id": 1,
+    "titulo": "Mineirão",
+    "descricao": "Conheça o gigante da pampulha, o estádio Mineirão",
+    "localizacao": {
+      "longitude": -43.9714,
+      "latitude": -19.8694
+    },
+    "data": "24/11/2023",
+    "imagem": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt4655228bf9000a0f/643dbdd91dbb3657dcc1d53c/Mineirao1_(1).jpg?auto=webp&format=pjpg&width=3840&quality=60"
+  },
+  {
+    "id": 2,
+    "titulo": "Praça 7",
+    "descricao": "Explorando a Praça 7 em Belo Horizonte",
+    "localizacao": {
+      "longitude": -43.9361,
+      "latitude": -19.9267
+    },
+    "data": "24/11/2023",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/5/5d/PracaSete.jpg"
+  },
+  {
+    "id": 3,
+    "titulo": "Lagoa da Pampulha",
+    "descricao": "Cenários incríveis ao redor da Lagoa da Pampulha",
+    "localizacao": {
+      "longitude": -43.9389,
+      "latitude": -19.85
+    },
+    "data": "24/11/2023",
+    "imagem": "https://lh4.googleusercontent.com/eqxCK0Dvg14CQAO4YqH1lw0vc3pU4V1MBtYIAd3U0bUO8BOThfUPYxu3QEATecSueNYtivgFa4caPlr1xjBkQXkjT-n1uYJ0X4LFmD_KgLmaABMxl2IH6lm2QCC6UwD1B0JC8aAL"
+  },
+  {
+    "id": 4,
+    "titulo": "Mercado Central",
+    "descricao": "Explorando sabores no Mercado Central de BH",
+    "localizacao": {
+      "longitude": -43.9392,
+      "latitude": -19.9222
+    },
+    "data": "24/11/2023",
+    "imagem": "https://meulugar.quintoandar.com.br/wp-content/uploads/2023/01/Mercado-Central-de-Belo-Horizonte-850x576.jpg"
+  }
+]
+
 }
